@@ -1,0 +1,19 @@
+{
+  "name": "YAZ",
+  "symbol": "YAZ",
+  "type": "ERC-20",
+  "decimals": 18,
+  "address": "0xeE4237bC78d6CA9b8dD3ab3489066007bF6044AF",
+  "chain": "Ethereum",
+  "total_supply": "950",
+  "description": {
+    "en": "YAZ is a unique ERC-20 token inspired by Amazigh culture. Only 950 tokens were minted to represent the Amazigh year and the gap from the Gregorian calendar.",
+    "ar": "عملة YAZ هي رمز رقمي فريد مستوحى من الثقافة الأمازيغية. تم إصدار 950 عملة فقط تجسيدًا للسنة الأمازيغية والفارق بينها وبين السنة الميلادية.",
+    "fr": "YAZ est un jeton ERC-20 unique inspiré de la culture amazighe. Seulement 950 tokens ont été émis pour représenter l'année amazighe et l'écart avec le calendrier grégorien."
+  },
+  "logo": "https://raw.githubusercontent.com/yaz950/yaz-token-asset/main/logo.png",
+  "website": "https://yaz.xf2f.com/",
+  "explorer": "https://etherscan.io/token/0xeE4237bC78d6CA9b8dD3ab3489066007bF6044AF",
+  "github": "https://github.com/yaz950/yaz-token-asset",
+  "whitepaper": "https://yaz.xf2f.com/whitepaper.php"
+}
